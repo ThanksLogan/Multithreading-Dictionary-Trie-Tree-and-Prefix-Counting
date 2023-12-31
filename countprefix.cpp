@@ -1,10 +1,4 @@
-//
-// Created by forem on 2/21/2023.
-//
-//
-// Created by Logan Foreman on 1/24/23.
-//Redid: 825056655
-//
+
 
 //this file will IMPLEMENT THE .h file, dictionary.h (#include dictionary.h)
 #include "readprefix.h"
