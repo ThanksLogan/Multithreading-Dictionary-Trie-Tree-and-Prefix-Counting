@@ -1,8 +1,4 @@
 
-//
-// Created by Logan Foreman on 2/20/23.
-// RedID: 825056655
-//
 
 #ifndef DICTIONARYTREE_H
 #define DICTIONARYTREE_H
