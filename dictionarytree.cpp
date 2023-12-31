@@ -2,9 +2,7 @@
 // Created by forem on 2/21/2023.
 //
 //
-// Created by Logan Foreman on 1/24/23.
-//REDID: 825056655
-//
+
 
 #include <cstring>
 #include <string.h>
