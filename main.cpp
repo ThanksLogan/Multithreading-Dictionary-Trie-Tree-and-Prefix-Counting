@@ -1,5 +1,4 @@
-//Author: Logan Foreman on 2/20/2023
-//REDID: 825056655
+
 
 #include <stdio.h>
 #include <pthread.h>
